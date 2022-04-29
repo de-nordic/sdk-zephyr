@@ -55,6 +55,7 @@
 		compatible = "nordic,nrf-cc312-sw";
 		#address-cells = <0>;
 		label = "CRYPTOCELL_SW";
+		status = "okay";
 	};
 };
 
